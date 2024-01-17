@@ -1,0 +1,3 @@
+abcde no
+abcba yes
+abcdefg no

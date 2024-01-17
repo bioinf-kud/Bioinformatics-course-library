@@ -1,0 +1,5 @@
+3
+a
+I have a pen
+I have an apple
+Pen-Pineapple-Apple-pen
